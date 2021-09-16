@@ -289,7 +289,7 @@ timerFun(parseInt(prompt('Type Your Break Time : ')));
 
 
 
-//Footer Credits
+//Footer Credits Work
 $(document).ready(function () {
     if ($('#footer-post').length == 1)
     // check if <a> exists in id="footer-post" and changes <a> address and class
